@@ -3,7 +3,7 @@
   "description": "Clean Roots Install",
   "dependencies": {
     "autoprefixer-stylus": "0.5.x",
-    "axis": "0.3.x",
+    "axis": "0.6.1",
     "coffee-script": "1.8.x",
     "css-pipeline": "0.2.x",
     "jade": "1.x",
