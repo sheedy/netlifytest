@@ -2,7 +2,7 @@
   "name": "roots-base",
   "description": "Clean Roots Install",
   "dependencies": {
-    "autoprefixer-stylus": "0.5.x",
+    "autoprefixer-stylus": "0.14.0",
     "axis": "0.3.x",
     "coffee-script": "1.8.x",
     "css-pipeline": "0.2.x",
